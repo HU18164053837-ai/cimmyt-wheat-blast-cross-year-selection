@@ -14,8 +14,8 @@ authors:
     given-names: Bao Sheng
   - family-names: Lv
     given-names: Rui Ling
-repository-code: "https://github.com/USERNAME/cimmyt-wheat-blast-cross-year-selection"
-url: "https://github.com/USERNAME/cimmyt-wheat-blast-cross-year-selection"
+repository-code: "https://github.com/HU18164053837-ai/cimmyt-wheat-blast-cross-year-selection"
+url: "https://github.com/HU18164053837-ai/cimmyt-wheat-blast-cross-year-selection"
 license: MIT
 keywords:
   - wheat blast
@@ -24,4 +24,3 @@ keywords:
   - candidate selection
   - CIMMYT
   - unbalanced data
-
