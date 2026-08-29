@@ -1,0 +1,28 @@
+{
+  "analysis_time": "2026-08-11T21:24:07",
+  "files_scanned": 24,
+  "complete_scans": 24,
+  "nursery_series": [
+    "HLBSN",
+    "HZAN",
+    "IBWSN",
+    "SAWSN"
+  ],
+  "nursery_files": 24,
+  "environment_columns": 154,
+  "potential_cells": 32261,
+  "observed_cells": 31879,
+  "missing_cells": 382,
+  "explicit_na_cells": 314,
+  "invalid_numeric_cells": 0,
+  "out_of_range_cells": 0,
+  "year_conflicts": [
+    "15HZAN"
+  ],
+  "filename_normalizations": [
+    "36SAWNS_WB.csv.gz"
+  ],
+  "exact_duplicate_nursery_pairs": [
+    "14HZAN=15HZAN"
+  ]
+}

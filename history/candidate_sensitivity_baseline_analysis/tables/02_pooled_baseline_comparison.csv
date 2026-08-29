@@ -1,0 +1,5 @@
+"method","selected_events","passed_events","pooled_precision"
+"reference_multicriterion",462,406,0.878787878787879
+"simple_historical_percentile",462,406,0.878787878787879
+"simple_raw_disease_tail",462,406,0.878787878787879
+"random_same_size_expected",462,,0.722693935252745

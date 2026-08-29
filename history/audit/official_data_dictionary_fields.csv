@@ -1,0 +1,63 @@
+﻿source_dictionary,sheet,example_file,variable,variable_description,unit,declared_data_type
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,1-12HPAN_WB.csv.gz,Ent,Entry number assigned to the germplasm,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,2-13HLBSN_WB.csv.gz,Cid,Cross identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,3- 13HZAN_WB.csv.gz,Sid,Source identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,4-38SAWSN_WB.csv.gz,GID,Genotype Identification Number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,5- 52IDSN_WB.csv.gz,Cross,Cross of the parents,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,6-53IBWSN_WB.csv.gz,Sel_Hist,Selection hystory,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,7- 54IBWSN_WB.csv.gz,Jashore_2021_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2021_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,,quirusillas_2021_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,,quirusillas_2021_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2022_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2022_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2022/Data Dictionary_Template_XHe.xlsx,Example,,Okinawa_2022_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,1-32ISEPTON_WB.csv.gz,Ent,Entry number assigned to the germplasm,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,2-14HLBSN_WB.csv.gz,Cid,Cross identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,3- 14HZAN_WB.csv.gz,Sid,Source identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,4-40SAWSN_WB.csv.gz,GID,Genotype Identification Number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,5-24FHBSN_WB.csv.gz,Cross,Cross of the parents,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,6-55IBWSN_WB.csv.gz,Sel_Hist,Selection hystory,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2023_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2023_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,quirusillas_2023_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,quirusillas_2023_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2023_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,Jashore_2023_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/cycle_2023/Data Dictionary_Template_XHe.xlsx,Example,,Okinawa_2023_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,1- 8HLBSN_WB.csv.gz,Ent,Entry number assigned to the germplasm,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,2- 9HLBSN_WB.csv.gz,Cid,Cross identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,3- 10HLBSN_WB.csv.gz,Sid,Source identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,4- 11HLBSN_WB.csv.gz,GID,Genotype Identification Number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,5- 12HLBSN_WB.csv.gz,Cross,Cross of the parents,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Sel_Hist,Selection hystory,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Quirusillas_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Quirusillas_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Jashore_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Jashore_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Okinawa_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/HLBSN_2018_2021/Data Dictionary_Wheat_Blast.xlsx,Example,,Okinawa_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,1-50IBWSN_WB.csv.gz,Ent,Entry number assigned to the germplasm,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,2-51IBWSN_WB.csv.gz,Cid,Cross identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,3-52IBWSN_WB.csv.gz,Sid,Source identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,GID,Genotype Identification Number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Cross,Cross of the parents,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Sel_Hist,Selection hystory,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Quirusillas_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Quirusillas_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Jashore_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Jashore_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Okinawa_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/IBWSN_2018_2021/Data Dictionary_Template_IBWSN_WB.xlsx,Example,,Okinawa_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,1-35SAWSN_WB.csv.gz,Ent,Entry number assigned to the germplasm,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,2- 36SAWSN_WB.csv.gz,Cid,Cross identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,3- 37SAWSN_WB.csv.gz,Sid,Source identification number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,GID,Genotype Identification Number,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Cross,Cross of the parents,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Sel_Hist,Selection hystory,n/a,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Quirusillas_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Quirusillas_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Jashore_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Jashore_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Okinawa_2018_1st_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical
+CIMMYT数据集/history/derived/data_dictionaries/SAWSN_2018_2021/Data Dictionary_Template_SAWSN_WB.xlsx,Example,,Okinawa_2018_2nd_sowing,Wheat blast index for the experiment conducted in Location_Year_Sowing,%,numerical

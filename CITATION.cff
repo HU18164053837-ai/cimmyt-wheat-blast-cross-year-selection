@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or analytical outputs, please cite the associated manuscript and the original CIMMYT datasets."
+title: "Code and data for auditable cross-year selection of wheat blast resistance candidates"
+type: software
+version: 1.0.0
+date-released: 2026-08-29
+authors:
+  - family-names: Hu
+    given-names: Yi
+    orcid: "https://orcid.org/0009-0007-3900-4577"
+  - family-names: Rao
+    given-names: Zhi Ying
+  - family-names: Dai
+    given-names: Bao Sheng
+  - family-names: Lv
+    given-names: Rui Ling
+repository-code: "https://github.com/USERNAME/cimmyt-wheat-blast-cross-year-selection"
+url: "https://github.com/USERNAME/cimmyt-wheat-blast-cross-year-selection"
+license: MIT
+keywords:
+  - wheat blast
+  - historical field nurseries
+  - cross-year robustness
+  - candidate selection
+  - CIMMYT
+  - unbalanced data
+

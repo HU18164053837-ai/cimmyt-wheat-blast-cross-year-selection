@@ -1,0 +1,4 @@
+"evidence_band","n_gid","strong","moderate","not_robust","median_of_median_percentile","median_q90_disease"
+"2-year_provisional",89,8,40,41,0.436842105263158,7.998
+"3-4-year_intermediate",6,0,5,1,0.422988221488834,6.433547619
+"5-7-year_long_term",9,0,2,7,0.841346153846154,79.903743317

@@ -1,0 +1,9 @@
+"metric","value"
+"transitions_with_eligible_gid",6
+"eligible_gid_transition_events",1705
+"selected_transition_events",462
+"passed_selected_events",406
+"pooled_selected_precision",0.878787878787879
+"median_transition_precision",0.705426356589147
+"median_top_quartile_precision",0.416666666666667
+"median_spearman",0.576581565151048

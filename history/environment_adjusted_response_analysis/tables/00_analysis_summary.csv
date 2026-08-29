@@ -1,0 +1,9 @@
+"metric","value"
+"input_rows",30475
+"linked_gid_rows",30349
+"environments",148
+"candidate_environment_events",275
+"portfolio_gid",14
+"bootstrap_iterations",1000
+"robust_adjusted_advantage",14
+"pressure_stable",4

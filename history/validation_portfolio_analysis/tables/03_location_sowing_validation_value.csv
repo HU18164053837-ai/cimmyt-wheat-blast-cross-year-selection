@@ -1,0 +1,7 @@
+"location","sowing","n_years","median_balanced_mean","median_balanced_median","median_discrimination_iqr","median_saturation_pct","median_information_score","best_historical_environment"
+"Jashore","1st",7,12.8486689291101,6.345,10,50.2472376099178,0.665540540540541,"Jashore_2019_1st_sowing"
+"Jashore","2nd",7,8.43832390648567,4.04,10,54.4782608695652,0.60472972972973,"Jashore_2022_2nd_sowing"
+"Quirusillas","2nd",5,7.51775805864657,0,0,87.2884389921685,0.412162162162162,"Quirusillas_2019_2nd_sowing"
+"Quirusillas","1st",6,6.49696690583232,0,0,88.3308330690839,0.410472972972973,"Quirusillas_2019_1st_sowing"
+"Okinawa","2nd",7,7.43858623426298,0,0,81.8620451877935,0.408783783783784,"Okinawa_2019_2nd_sowing"
+"Okinawa","1st",6,5.20723356015052,0,0,83.3677874745736,0.317567567567568,"Okinawa_2019_1st_sowing"

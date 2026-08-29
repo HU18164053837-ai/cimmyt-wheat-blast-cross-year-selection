@@ -1,0 +1,8 @@
+"GID","portfolio_role","original_tier","n_exclusions","same_tier_fraction","at_least_moderate_fraction","insufficient_fraction","tiers_observed"
+"6176368","intermediate_candidate","moderate",3,1,1,0,"moderate"
+"6341870","long_term_anchor","moderate",5,1,1,0,"moderate"
+"7398245","long_term_anchor","moderate",5,0.8,0.8,0,"moderate;not_robust"
+"7630418","intermediate_candidate","moderate",3,0.333333333333333,0.666666666666667,0.333333333333333,"insufficient;moderate;strong"
+"7694609","intermediate_candidate","moderate",3,1,1,0,"moderate"
+"8048389","intermediate_candidate","moderate",3,0.666666666666667,0.666666666666667,0.333333333333333,"insufficient;moderate"
+"8048669","intermediate_candidate","moderate",4,1,1,0,"moderate"

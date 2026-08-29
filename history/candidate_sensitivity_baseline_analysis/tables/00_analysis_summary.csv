@@ -1,0 +1,11 @@
+"metric","value"
+"threshold_grid_combinations",768
+"full_funnel_paths",2304
+"portfolio_candidates",14
+"stable_core_reference_candidates",0
+"temporal_selected_events",462
+"temporal_passed_events",406
+"reference_conditional_pass_proportion",0.878787878787879
+"percentile_baseline_conditional_pass_proportion",0.878787878787879
+"raw_tail_baseline_conditional_pass_proportion",0.878787878787879
+"random_expected_conditional_pass_proportion",0.722693935252745

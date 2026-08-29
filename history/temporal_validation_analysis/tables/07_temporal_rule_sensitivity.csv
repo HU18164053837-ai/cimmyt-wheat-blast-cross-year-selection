@@ -1,0 +1,4 @@
+"scenario","selected_events","passed_events","pooled_precision","distinct_gid"
+"conservative",2,1,0.5,2
+"reference",462,406,0.878787878787879,462
+"liberal",1350,1107,0.82,1334

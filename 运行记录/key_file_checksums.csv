@@ -1,0 +1,7 @@
+"relative_path","bytes","sha256"
+"history\standardized\historical_long_primary_observed.csv","7995420","D4E3C5DDE4FDC7ADAAA57A9742BC55DBC140C11EFBDBC0748937DFFD61BFACC7"
+"history\cross_year_analysis\tables\00_analysis_summary.csv","206","807A3AE6EA43776E844F05E0C26783E240B4142B3B83839C559337A9C160D282"
+"history\validation_portfolio_analysis\tables\01_nonredundant_validation_portfolio.csv","5996","3DC0327A8EDCAB89EEC80F37396C186FD0C9C9347A14A5C50239C7030B0E7134"
+"history\candidate_sensitivity_baseline_analysis\tables\07_full_funnel_multiverse.csv","88804","4A44AB2529FCA9B8BF7CFCC31E4CDDC3E19A7CCA277B4AAF5932787E85F6DD14"
+"history\candidate_sensitivity_baseline_analysis\tables\08_full_funnel_candidate_stability.csv","10880","963701CCE5F9F947A909B652DD3401B5411CF3C79CBDE7D28515974365C77175"
+"history\temporal_uncertainty_negative_control\tables\00_analysis_summary.csv","497","843E130D2120475CD4CEDE59FBBA6A011006566AE944041F5628C856FC2139F9"

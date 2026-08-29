@@ -1,0 +1,9 @@
+"metric","value"
+"input_rows",30475
+"environments",38
+"nursery_environment_strata",148
+"unique_nonempty_gid",4088
+"eligible_cross_year_gid",104
+"strong_gid",8
+"moderate_gid",47
+"not_robust_gid",49

@@ -1,0 +1,256 @@
+Start: 2026-08-25T20:03:03.4951488+08:00
+Project root: <isolated-temporary-repository-copy>
+RUN 4: 04_历年字段审计与育种圃映射.py
+{
+  "analysis_time": "2026-08-25T20:03:05",
+  "files_scanned": 24,
+  "complete_scans": 24,
+  "nursery_series": [
+    "HLBSN",
+    "HZAN",
+    "IBWSN",
+    "SAWSN"
+  ],
+  "nursery_files": 24,
+  "environment_columns": 154,
+  "potential_cells": 32261,
+  "observed_cells": 31879,
+  "missing_cells": 382,
+  "explicit_na_cells": 314,
+  "invalid_numeric_cells": 0,
+  "out_of_range_cells": 0,
+  "year_conflicts": [
+    "15HZAN"
+  ],
+  "filename_normalizations": [
+    "36SAWNS_WB.csv.gz"
+  ],
+  "exact_duplicate_nursery_pairs": [
+    "14HZAN=15HZAN"
+  ]
+}
+RUN 5: 05_跨年度环境与候选稳健性分析.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+input_rows=30475
+environments=38
+nursery_environment_strata=148
+unique_nonempty_gid=4088
+eligible_cross_year_gid=104
+strong_gid=8
+moderate_gid=47
+not_robust_gid=49
+RUN 6: 06_证据分层与系谱来源分析.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+eligible_gid=104
+two_year_gid=89
+three_four_year_gid=6
+five_seven_year_gid=9
+high_performance_needs_confirmation=8
+intermediate_support=5
+long_term_priority=2
+independent_strong_sources=6
+RUN 7: 07_候选复验组合与敏感性分析.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+portfolio_total=17
+resistance_candidates=14
+reference_controls=3
+long_term_anchors=2
+intermediate_candidates=5
+unique_provisional_strong=7
+loyo_candidates=7
+loyo_below_80pct=2
+RUN 8: 08_共同对照锚定优势分析.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+resistance_candidates=14
+local_check_rows=1094
+local_check_strata=137
+candidate_local_shared_rows=275
+stable_superior=14
+conditional_advantage=0
+location_sowing_failures=0
+RUN 9: 09_时间外伪前瞻验证.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+transitions=6
+transitions_evaluable=6
+eligible_transition_events=1705
+selected_transition_events=462
+passed_selected_events=406
+pooled_precision=0.878787878787879
+portfolio_gid=14
+RUN 10: 10_环境校正材料效应与失效边界.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+input_rows=30475
+linked_gid_rows=30349
+environments=148
+candidate_environment_events=275
+portfolio_gid=14
+bootstrap_iterations=1000
+robust_adjusted_advantage=14
+pressure_stable=4
+RUN 11: 11_候选阈值敏感性与基线比较.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+                                            metric        value
+1                      threshold_grid_combinations  768.0000000
+2                                full_funnel_paths 2304.0000000
+3                             portfolio_candidates   14.0000000
+4                 stable_core_reference_candidates    0.0000000
+5                         temporal_selected_events  462.0000000
+6                           temporal_passed_events  406.0000000
+7            reference_conditional_pass_proportion    0.8787879
+8  percentile_baseline_conditional_pass_proportion    0.8787879
+9    raw_tail_baseline_conditional_pass_proportion    0.8787879
+10     random_expected_conditional_pass_proportion    0.7226939
+RUN 12: 12_跨年度不确定性与负对照.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+RUN 13: 13_研究流程图.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+RUN 14: 14_编辑意见方法透明度与敏感性分析.R
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+  n_environments spearman_balanced_vs_pooled median_absolute_mean_difference
+1             38                   0.9798665                       0.4179879
+  maximum_absolute_mean_difference n_rank_shift_ge_3 n_rank_shift_ge_5
+1                         2.796851                 8                 2
+                  variant pressure_weight discrimination_weight coverage_weight
+1                   equal       0.2500000             0.2500000       0.2500000
+2             no_pressure       0.0000000             0.3333333       0.3333333
+3       no_discrimination       0.3333333             0.0000000       0.3333333
+4             no_coverage       0.3333333             0.3333333       0.0000000
+5        no_nonsaturation       0.3333333             0.3333333       0.3333333
+6 discrimination_emphasis       0.2000000             0.4000000       0.2000000
+7       pressure_emphasis       0.4000000             0.2000000       0.2000000
+  nonsaturation_weight spearman_with_equal top6_overlap top10_overlap
+1            0.2500000           0.9999453            6            10
+2            0.3333333           0.9800263            6            10
+3            0.3333333           0.9736828            6             8
+4            0.3333333           0.9386013            5             9
+5            0.0000000           0.9665663            6             8
+6            0.2000000           0.9837483            5            10
+7            0.2000000           0.9879610            5            10
+                                                                stage    n
+1                                 Linkable GIDs in primary long table 4088
+2 Cross-year eligibility (>=2 years, >=2 nurseries, >=4 observations)  104
+3                                  Strong or moderate robustness tier   55
+4                Priority evidence set before pedigree de-duplication   15
+5                       Nonredundant prospective resistance portfolio   14
+                                     source
+1                       Primary audit table
+2 06_eligible_cross_year_gid_candidates.csv
+3 06_eligible_cross_year_gid_candidates.csv
+4      04_priority_validation_portfolio.csv
+5  01_nonredundant_validation_portfolio.csv
+KEY COUNTS
+input_rows=30475
+environments=38
+nursery_environment_strata=148
+unique_nonempty_gid=4088
+eligible_cross_year_gid=104
+strong_gid=8
+moderate_gid=47
+not_robust_gid=49
+portfolio_total=17
+resistance_candidates=14
+reference_controls=3
+long_term_anchors=2
+intermediate_candidates=5
+unique_provisional_strong=7
+loyo_candidates=7
+loyo_below_80pct=2
+End: 2026-08-25T20:05:20.3017385+08:00

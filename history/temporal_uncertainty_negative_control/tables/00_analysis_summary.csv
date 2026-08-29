@@ -1,0 +1,2 @@
+"selected_events","passed_events","unique_selected_GIDs","informative_transitions","event_weighted_precision","transition_macro_precision","loto_min","loto_max","transition_cluster_ci_low","transition_cluster_ci_high","gid_cluster_ci_low","gid_cluster_ci_high","permutation_null_mean","permutation_p"
+462,406,462,5,0.878787878787879,0.631358827548833,0.699248120300752,0.945945945945946,0.428571428571429,0.950455005055612,0.848484848484849,0.909090909090909,0.722762987012987,9.99900009999e-05

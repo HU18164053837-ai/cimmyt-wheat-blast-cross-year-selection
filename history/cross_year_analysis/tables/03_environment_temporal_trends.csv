@@ -1,0 +1,7 @@
+"location","sowing","n_years","first_year","last_year","pressure_slope_pct_per_year","discrimination_slope_iqr_per_year","pressure_range","discrimination_range"
+"Jashore","1st",7,2018,2024,-0.156696428571453,-1.65078298224092,10,30
+"Jashore","2nd",7,2018,2024,1.08862645057132,0.131283743089237,10,14.6763182675
+"Okinawa","1st",6,2018,2024,0,-1.4106987577645,0,20.6475
+"Okinawa","2nd",7,2018,2024,0,-0.390491071428565,0,2.91125
+"Quirusillas","1st",6,2018,2024,0,-0.017158385093166,0,0.1625
+"Quirusillas","2nd",5,2018,2023,0,0,0,0

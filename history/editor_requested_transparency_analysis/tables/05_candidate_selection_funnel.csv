@@ -1,0 +1,6 @@
+"stage","n","source"
+"Linkable GIDs in primary long table",4088,"Primary audit table"
+"Cross-year eligibility (>=2 years, >=2 nurseries, >=4 observations)",104,"06_eligible_cross_year_gid_candidates.csv"
+"Strong or moderate robustness tier",55,"06_eligible_cross_year_gid_candidates.csv"
+"Priority evidence set before pedigree de-duplication",15,"04_priority_validation_portfolio.csv"
+"Nonredundant prospective resistance portfolio",14,"01_nonredundant_validation_portfolio.csv"

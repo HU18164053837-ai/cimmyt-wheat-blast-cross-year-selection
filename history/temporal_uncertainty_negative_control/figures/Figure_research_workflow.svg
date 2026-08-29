@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='518.40pt' height='273.60pt' viewBox='0 0 518.40 273.60'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNDB8MC4wMHwyNzMuNjA='>
+    <rect x='0.00' y='0.00' width='518.40' height='273.60' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNDB8MC4wMHwyNzMuNjA=)'>
+</g>
+<defs>
+  <clipPath id='cpMi44OHw1MTUuNTJ8Mi44OHwyNzAuNzI='>
+    <rect x='2.88' y='2.88' width='512.64' height='267.84' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMi44OHw1MTUuNTJ8Mi44OHwyNzAuNzI=)'>
+<polygon points='31.36,89.68 112.05,89.68 112.05,35.12 31.36,35.12 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #EEF1E7;' />
+<text x='71.71' y='51.72' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='72.14px' lengthAdjust='spacingAndGlyphs'>Public nursery archive</text>
+<text x='71.71' y='60.65' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='19.02px' lengthAdjust='spacingAndGlyphs'>2018b</text>
+<text x='71.71' y='81.70' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='44.31px' lengthAdjust='spacingAndGlyphs'>24 phenotype files</text>
+<polygon points='126.29,89.68 206.99,89.68 206.99,35.12 126.29,35.12 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #DCE7D5;' />
+<text x='166.64' y='51.72' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='62.64px' lengthAdjust='spacingAndGlyphs'>Compatibility audit</text>
+<text x='166.64' y='60.65' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='67.64px' lengthAdjust='spacingAndGlyphs'>and duplicate control</text>
+<text x='166.64' y='82.30' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='45.80px' lengthAdjust='spacingAndGlyphs'>15HZAN excluded</text>
+<polygon points='221.23,89.68 301.92,89.68 301.92,35.12 221.23,35.12 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #F3E6BE;' />
+<text x='261.57' y='51.72' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='65.03px' lengthAdjust='spacingAndGlyphs'>Within-environment</text>
+<text x='261.57' y='60.65' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='51.28px' lengthAdjust='spacingAndGlyphs'>percentile ranks</text>
+<text x='261.57' y='78.64' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='43.11px' lengthAdjust='spacingAndGlyphs'>structural absence</text>
+<text x='261.57' y='85.84' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='19.31px' lengthAdjust='spacingAndGlyphs'>retained</text>
+<polygon points='316.16,89.68 396.85,89.68 396.85,35.12 316.16,35.12 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #E8D8C8;' />
+<text x='356.51' y='51.72' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='63.52px' lengthAdjust='spacingAndGlyphs'>Cross-year evidence</text>
+<text x='356.51' y='60.65' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='80.61px' lengthAdjust='spacingAndGlyphs'>without panel completion</text>
+<text x='356.51' y='82.30' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='54.44px' lengthAdjust='spacingAndGlyphs'>GID-linked recurrence</text>
+<polygon points='411.09,89.68 487.04,89.68 487.04,35.12 411.09,35.12 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #DCE5E8;' />
+<text x='449.07' y='51.72' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='40.92px' lengthAdjust='spacingAndGlyphs'>14-candidate</text>
+<text x='449.07' y='60.65' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='74.91px' lengthAdjust='spacingAndGlyphs'>nonredundant portfolio</text>
+<text x='449.07' y='81.70' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='56.28px' lengthAdjust='spacingAndGlyphs'>breeding roles assigned</text>
+<polygon points='78.83,198.80 183.25,198.80 183.25,136.80 78.83,136.80 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #EEF1E7;' />
+<text x='131.04' y='157.12' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='63.88px' lengthAdjust='spacingAndGlyphs'>Common-check and</text>
+<text x='131.04' y='166.05' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='76.16px' lengthAdjust='spacingAndGlyphs'>background adjustment</text>
+<text x='131.04' y='187.76' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='48.31px' lengthAdjust='spacingAndGlyphs'>environment-cluster</text>
+<text x='131.04' y='194.96' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='26.98px' lengthAdjust='spacingAndGlyphs'>uncertainty</text>
+<polygon points='206.99,198.80 311.41,198.80 311.41,136.80 206.99,136.80 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #DCE7D5;' />
+<text x='259.20' y='157.12' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='61.78px' lengthAdjust='spacingAndGlyphs'>Past-only next-year</text>
+<text x='259.20' y='166.05' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='52.27px' lengthAdjust='spacingAndGlyphs'>enrichment tests</text>
+<text x='259.20' y='187.76' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='39.81px' lengthAdjust='spacingAndGlyphs'>cluster bootstrap</text>
+<text x='259.20' y='194.96' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='33.89px' lengthAdjust='spacingAndGlyphs'>+ permutation</text>
+<polygon points='335.15,198.80 439.57,198.80 439.57,136.80 335.15,136.80 ' style='stroke-width: 0.90; stroke: #3F5145; fill: #F3E6BE;' />
+<text x='387.36' y='157.12' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='66.98px' lengthAdjust='spacingAndGlyphs'>Prospective balanced</text>
+<text x='387.36' y='166.05' text-anchor='middle' style='font-size: 7.44px; font-weight: bold; font-family: "Times New Roman";' textLength='53.94px' lengthAdjust='spacingAndGlyphs'>validation design</text>
+<text x='387.36' y='190.82' text-anchor='middle' style='font-size: 6.00px;fill: #4D5559; font-family: "Times New Roman";' textLength='56.95px' lengthAdjust='spacingAndGlyphs'>recommended next step</text>
+<line x1='112.05' y1='62.40' x2='126.29' y2='62.40' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='121.31,65.28 126.29,62.40 121.31,59.52 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='206.99' y1='62.40' x2='221.23' y2='62.40' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='216.24,65.28 221.23,62.40 216.24,59.52 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='301.92' y1='62.40' x2='316.16' y2='62.40' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='311.17,65.28 316.16,62.40 311.17,59.52 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='396.85' y1='62.40' x2='411.09' y2='62.40' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='406.11,65.28 411.09,62.40 406.11,59.52 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='449.07' y1='89.68' x2='449.07' y2='116.96' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='449.07' y1='116.96' x2='131.04' y2='116.96' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='131.04' y1='116.96' x2='131.04' y2='136.80' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='128.16,131.81 131.04,136.80 133.92,131.81 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='183.25' y1='167.80' x2='206.99' y2='167.80' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='202.00,170.68 206.99,167.80 202.00,164.92 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<line x1='311.41' y1='167.80' x2='335.15' y2='167.80' style='stroke-width: 1.05; stroke: #3F5145;' />
+<polyline points='330.16,170.68 335.15,167.80 330.16,164.92 ' style='stroke-width: 1.05; stroke: #3F5145;' />
+<text x='273.44' y='107.87' text-anchor='middle' style='font-size: 8.64px;fill: #3F5145; font-family: "Times New Roman";' textLength='119.70px' lengthAdjust='spacingAndGlyphs'>Retrospective evidence integration</text>
+<text x='259.20' y='238.07' text-anchor='middle' style='font-size: 8.64px; font-style: italic;fill: #8B5E3C; font-family: "Times New Roman";' textLength='157.83px' lengthAdjust='spacingAndGlyphs'>Scope: candidate enrichment and risk triageb</text>
+</g>
+</g>
+</svg>
