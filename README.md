@@ -1,11 +1,11 @@
-# Auditable cross-year selection of wheat blast resistance candidates
+# Historical wheat blast nurseries identify resistance candidates for prospective field validation
 
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-yellow.svg)](LICENSE)
 [![Data source: CIMMYT](https://img.shields.io/badge/Data-CIMMYT-4C7A34.svg)](DATA_LICENSE.md)
 
 This repository contains the analysis code, parameter definitions, analytical tables, figures, and reproducibility records supporting the manuscript:
 
-> **Auditable cross-year selection of wheat blast resistance candidates from unbalanced historical field nurseries**
+> **Historical wheat blast nurseries identify resistance candidates for prospective field validation**
 
 The study reuses public CIMMYT wheat blast nursery records from 2018–2024. It evaluates environmental pressure and discrimination, recurring-GID robustness, evidence duration, pedigree redundancy, common-check contrasts, past-only temporal enrichment, background-adjusted response, and full-funnel decision sensitivity.
 
@@ -37,6 +37,7 @@ This is a retrospective analysis of structurally unbalanced historical nurseries
 ├── DEPENDENCIES.md                     # software requirements and English script map
 ├── PARAMETER_DICTIONARY.md             # definitions and locked thresholds
 ├── history/                             # source snapshot, standardized data, outputs, figures
+├── publication_figures/                 # journal-ready figures, source data, and rebuild script
 ├── 结果表/                              # selected summary outputs
 └── 运行记录/                            # hashes, manifests, and isolated-run records
 ```
@@ -53,6 +54,23 @@ python -m pip install -r requirements.txt
 ```
 
 The runner resolves all paths relative to this repository and writes execution records to `运行记录/`. Scripts 04–14 were independently rerun from an isolated directory with exit status 0 for every step.
+
+## Publication figures
+
+The `publication_figures/` directory contains the Phytoparasitica-oriented figure set used in the revised manuscript:
+
+- five main figures (`Fig1`–`Fig5`) and two supplementary figures (`FigS5`–`FigS6`);
+- editable SVG and PDF files, 600-dpi TIFF submission files, and PNG previews;
+- one source-data CSV for every quantitative figure; and
+- `rebuild_phytoparasitica_figures.R`, which regenerates all seven figures from the tracked analytical tables.
+
+Run the figure script from the repository root:
+
+```powershell
+Rscript publication_figures/rebuild_phytoparasitica_figures.R
+```
+
+The script changes presentation only. It does not alter analytical thresholds, candidate membership, confidence intervals, or source observations.
 
 ## Data provenance and reuse
 

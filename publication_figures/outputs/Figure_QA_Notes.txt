@@ -1,0 +1,10 @@
+Phytoparasitica figure revision QA
+Backend: R only.
+Main figures: five; supplementary figures: two.
+No analytical thresholds, observations, confidence intervals, or candidate membership were changed.
+Fig. 2 contains all 38 location-year-sowing environments.
+Fig. 3 contains all 104 cross-year-eligible GIDs.
+Fig. 4 contains all 14 candidate GIDs; exact shared-stratum counts remain in the source-data table.
+Fig. 5 contains all five informative transitions and all leave-one-transition-out results.
+Primary exports: editable SVG and PDF; submission raster: 600-dpi TIFF; PNG is for manuscript embedding and QA.
+Palette uses dark green, ochre, blue and neutral grey with shape/line redundancy.

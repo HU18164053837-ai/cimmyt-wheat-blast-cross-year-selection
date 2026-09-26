@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='493.23pt' height='260.79pt' viewBox='0 0 493.23 260.79'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0OTMuMjN8MC4wMHwyNjAuNzk='>
+    <rect x='0.00' y='0.00' width='493.23' height='260.79' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0OTMuMjN8MC4wMHwyNjAuNzk=)'>
+<rect x='38.57' y='38.64' width='65.97' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #E8EFE5;' />
+<text x='71.55' y='53.50' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='44.03px' lengthAdjust='spacingAndGlyphs'>Historical field</text>
+<text x='71.55' y='61.18' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='48.62px' lengthAdjust='spacingAndGlyphs'>nursery records</text>
+<text x='71.55' y='76.96' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='59.00px' lengthAdjust='spacingAndGlyphs'>2018-2024; 24 phenotype files</text>
+<rect x='124.83' y='38.64' width='65.97' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #D9E5D3;' />
+<text x='157.81' y='57.31' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='40.81px' lengthAdjust='spacingAndGlyphs'>Data curation</text>
+<text x='157.81' y='74.75' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='34.38px' lengthAdjust='spacingAndGlyphs'>harmonized fields</text>
+<text x='157.81' y='80.03' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='42.66px' lengthAdjust='spacingAndGlyphs'>duplicate file removed</text>
+<line x1='115.95' y1='62.78' x2='124.83' y2='62.78' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='119.84,65.66 124.83,62.78 119.84,59.90 ' style='stroke-width: 1.01; stroke: #385044;' />
+<rect x='211.09' y='38.64' width='65.97' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #F3E5B4;' />
+<text x='244.08' y='53.50' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='45.02px' lengthAdjust='spacingAndGlyphs'>Within-nursery</text>
+<text x='244.08' y='61.18' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='61.42px' lengthAdjust='spacingAndGlyphs'>disease comparison</text>
+<text x='244.08' y='76.96' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='62.20px' lengthAdjust='spacingAndGlyphs'>structural absences not imputed</text>
+<line x1='202.21' y1='62.78' x2='211.09' y2='62.78' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='206.11,65.66 211.09,62.78 206.11,59.90 ' style='stroke-width: 1.01; stroke: #385044;' />
+<rect x='297.36' y='38.64' width='65.97' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #E8D8C8;' />
+<text x='330.34' y='56.75' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='45.42px' lengthAdjust='spacingAndGlyphs'>Repeated GIDs</text>
+<text x='330.34' y='74.75' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='39.05px' lengthAdjust='spacingAndGlyphs'>same GID observed</text>
+<text x='330.34' y='80.03' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='24.92px' lengthAdjust='spacingAndGlyphs'>across years</text>
+<line x1='288.48' y1='62.78' x2='297.36' y2='62.78' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='292.37,65.66 297.36,62.78 292.37,59.90 ' style='stroke-width: 1.01; stroke: #385044;' />
+<rect x='383.62' y='38.64' width='65.97' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #DAE5E8;' />
+<text x='416.61' y='53.50' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='30.88px' lengthAdjust='spacingAndGlyphs'>Candidate</text>
+<text x='416.61' y='61.18' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='38.72px' lengthAdjust='spacingAndGlyphs'>prioritization</text>
+<text x='416.61' y='74.75' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='33.17px' lengthAdjust='spacingAndGlyphs'>14 GIDs retained</text>
+<text x='416.61' y='80.03' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='48.55px' lengthAdjust='spacingAndGlyphs'>for prospective field tests</text>
+<line x1='374.74' y1='62.78' x2='383.62' y2='62.78' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='378.63,65.66 383.62,62.78 378.63,59.90 ' style='stroke-width: 1.01; stroke: #385044;' />
+<line x1='416.61' y1='86.93' x2='416.61' y2='130.39' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='413.73,125.41 416.61,130.39 419.49,125.41 ' style='stroke-width: 1.01; stroke: #385044;' />
+<line x1='416.61' y1='130.39' x2='129.90' y2='130.39' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='134.89,127.51 129.90,130.39 134.89,133.27 ' style='stroke-width: 1.01; stroke: #385044;' />
+<line x1='129.90' y1='130.39' x2='129.90' y2='156.96' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='127.02,151.97 129.90,156.96 132.78,151.97 ' style='stroke-width: 1.01; stroke: #385044;' />
+<text x='256.76' y='123.67' text-anchor='middle' style='font-size: 6.56px;fill: #385044; font-family: "Arial";' textLength='131.73px' lengthAdjust='spacingAndGlyphs'>Historical evidence for candidate prioritization</text>
+<rect x='74.09' y='166.61' width='88.80' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #E8EFE5;' />
+<text x='118.49' y='181.48' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='51.84px' lengthAdjust='spacingAndGlyphs'>Comparison with</text>
+<text x='118.49' y='189.16' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='46.38px' lengthAdjust='spacingAndGlyphs'>LOCAL CHECK</text>
+<text x='118.49' y='204.91' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='67.11px' lengthAdjust='spacingAndGlyphs'>shared nursery-environment strata</text>
+<rect x='195.87' y='166.61' width='88.80' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #D9E5D3;' />
+<text x='240.27' y='181.48' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='59.27px' lengthAdjust='spacingAndGlyphs'>Historical next-year</text>
+<text x='240.27' y='189.16' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='18.47px' lengthAdjust='spacingAndGlyphs'>signal</text>
+<text x='240.27' y='202.73' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='42.47px' lengthAdjust='spacingAndGlyphs'>reobserved GIDs only</text>
+<text x='240.27' y='208.01' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='42.66px' lengthAdjust='spacingAndGlyphs'>not external validation</text>
+<line x1='185.72' y1='190.76' x2='195.87' y2='190.76' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='190.88,193.64 195.87,190.76 190.88,187.88 ' style='stroke-width: 1.01; stroke: #385044;' />
+<rect x='317.66' y='166.61' width='88.80' height='48.29' style='stroke-width: 1.05; stroke: #385044; fill: #F3E5B4;' />
+<text x='362.06' y='181.48' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='68.16px' lengthAdjust='spacingAndGlyphs'>Prospective replicated</text>
+<text x='362.06' y='189.16' text-anchor='middle' style='font-size: 6.40px; font-weight: bold;fill: #20231F; font-family: "Arial";' textLength='30.19px' lengthAdjust='spacingAndGlyphs'>field trials</text>
+<text x='362.06' y='205.35' text-anchor='middle' style='font-size: 4.40px;fill: #5E625E; font-family: "Arial";' textLength='73.41px' lengthAdjust='spacingAndGlyphs'>multi-site test with common standards</text>
+<line x1='307.51' y1='190.76' x2='317.66' y2='190.76' style='stroke-width: 1.01; stroke: #385044;' />
+<polyline points='312.67,193.64 317.66,190.76 312.67,187.88 ' style='stroke-width: 1.01; stroke: #385044;' />
+<text x='246.61' y='239.33' text-anchor='middle' style='font-size: 5.60px; font-style: italic;fill: #81582C; font-family: "Arial";' textLength='250.16px' lengthAdjust='spacingAndGlyphs'>Scope: historical candidate prioritization; resistance confirmation requires prospective replicated trials</text>
+</g>
+</g>
+</svg>

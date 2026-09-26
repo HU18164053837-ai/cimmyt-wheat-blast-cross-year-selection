@@ -26,7 +26,8 @@ $patterns = @(
     'BEGIN (RSA|OPENSSH|EC|DSA) PRIVATE KEY'
 )
 foreach ($pattern in $patterns) {
-    $hits = $textFiles | Select-String -Pattern $pattern -ErrorAction SilentlyContinue
+    $hits = $textFiles | Select-String -Pattern $pattern -ErrorAction SilentlyContinue |
+        Where-Object { $_.Line -notmatch 'github\.com/HU18164053837-ai/' }
     if ($hits) {
         $hits | ForEach-Object { Write-Error "Potential private/local content: $($_.Path):$($_.LineNumber)" }
         $failed = $true

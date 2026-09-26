@@ -1,6 +1,6 @@
 # GitHub上传说明
 
-该文件夹已经整理为可以直接上传的GitHub仓库，包含分析代码、参数字典、标准化分析表、图表、输出结果和复现记录。
+该仓库包含分析代码、参数字典、标准化分析表、输出结果、复现记录，以及面向Phytoparasitica稿件重新设计的主图和补充图。
 
 ## 推荐操作
 
@@ -18,11 +18,9 @@
 
 ## 发布前需要替换
 
-- 将`CITATION.cff`中的`USERNAME`替换为实际GitHub用户名。
 - GitHub发布`v1.0.0`后，建议连接Zenodo生成永久DOI。
 - 获得Zenodo DOI后，更新`CITATION.cff`和论文Data Availability Statement。
 
 ## 数据说明
 
 仓库中的CIMMYT源文件及其衍生数据不受本仓库MIT许可证重新授权，其使用和再分发仍受原数据集条款约束。原数据链接列于`DATA_LICENSE.md`。
-
